@@ -1,0 +1,174 @@
+App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+body{
+  padding-top: 7%;
+}
+
+Footer {
+  background-color: black;
+  color: white;
+  padding: 2rem 0;
+}
+
+Footer .footer-container {
+  display: flex;
+  flex-direction: row;
+  max-width: 1110px;
+  justify-content: space-around;
+  margin: auto;
+}
+
+.app-navbar {
+  background-color: rgb(43, 29, 87, .95); // colore della navbar
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem 2rem;
+  user-select: none;
+  top : 0;
+  position: fixed;
+  left: 0;
+  right:0;  
+  z-index: 10;
+  
+}
+.app-navbar .navbar-items {
+  display: flex;
+  list-style: none;
+  align-items: center;
+  gap: 2.5rem;
+  
+  
+}
+
+.app-navbar .navbar-items .nav-links {
+  color: whitesmoke;
+  text-decoration: none;
+  font-family: 'Righteous', cursive;
+  font-size: larger;
+
+}
+
+.app-navbar .logo{
+  border-radius: 90%;
+  
+}
+
+.app-navbar .navbar-items .nav-links:hover {
+  color: white;
+} /*# sourceMappingURL=App.css.map */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    
+  }
+
+::-webkit-scrollbar{
+   width: 10px;
+   
+}
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px white;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb {
+  background: rgb(43, 29, 87, .7);
+  border-radius: 0px; // per avere la scrollbar non quadrata ma ellittica
+}
+
+  // .bar {
+  //   background-clip: border-box;
+  //   overflow: hidden;
+  //   background-color: #215;
+  //   top:0;
+  //   left:0;
+  //   position:sticky;
+  //   width: 100%;
+  //   z-index: 2;
+  // }
+  
+  // .bar a {
+  //   float: left;
+  //   font-size: 140%;
+  //   color: black;
+  //   text-decoration: solid;
+  //   text-align: center;
+  //   padding: 1.5% 1.8%;
+  //   text-decoration: none;
+  // }
+  // .bar :hover{
+  //   background-color:red;
+  //   animation: fadeIn .3s;
+  // }
+  // @keyframes fadeIn {
+  //   0% {opacity: 0;}
+  //   100%{opacity: 1;}
+  // }
+
+  .txtimg{
+    background-color: rgb(43, 29, 87);
+  }
+
+  video{
+    /* transform: translate(-50%, -50%); */
+    /* top: 50%;
+    left: 50%; */
+    /* display: block; */
+    margin: auto;
+    position:sticky;
+    padding:0;
+    border:0;
+    overflow: scroll;
+    // /* z-index: 0; */
+    width: 100%;
+  }
+  #videoback {
+    filter:brightness(90%);  
+  }
+  .grandeTesto{
+    text-align: center;
+    color:rgb(43, 29, 87);
+    resize: both;
+    z-index: 1;
+    font-size: 200%;
+    font-style: italic;
+  }
+  .gTitolo{
+    background-color: #003049;
+    resize: both;
+    z-index: 1;
+    font-size: 300%;
+    font-style: italic;
+    padding: 2%;
+    margin:0;
+  
+    
+  }  
+  p {
+    user-select: none;
+    text-decoration: none;
+    font-family: 'Righteous', cursive;
+  }
+
+  .sottotesto{
+    background-color: #669BBC;
+    color:white;
+    font-size: 100%;
+    margin:0;
+    padding: 2rem;
+    text-align: right;
+  }
+
+  .imgDestra{
+    float:right;
+    display:flex; 
+    margin-right:2.5%;
+    scale: 100%;
+  }

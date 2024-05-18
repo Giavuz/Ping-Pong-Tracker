@@ -1,0 +1,256 @@
+{
+    "Partite":[{
+    "ID": 37,
+    "Points_By_Green": 4,
+    "Points_By_Blue": 16,
+    "Hours": "2023-05-21 11:32:36",
+    "Winner": "Blue"
+},
+{
+    "ID": 36,
+    "Points_By_Green": 13,
+    "Points_By_Blue": 3,
+    "Hours": "2023-05-21 11:32:36",
+    "Winner": "Green"
+},
+{
+    "ID": 35,
+    "Points_By_Green": 19,
+    "Points_By_Blue": 9,
+    "Hours": "2023-05-21 11:32:36",
+    "Winner": "Green"
+},
+{
+    "ID": 34,
+    "Points_By_Green": 8,
+    "Points_By_Blue": 18,
+    "Hours": "2023-05-21 11:32:36",
+    "Winner": "Blue"
+},
+{
+    "ID": 33,
+    "Points_By_Green": 14,
+    "Points_By_Blue": 7,
+    "Hours": "2023-05-21 11:32:36",
+    "Winner": "Green"
+},
+{
+    "ID": 32,
+    "Points_By_Green": 1,
+    "Points_By_Blue": 9,
+    "Hours": "2023-05-21 11:32:36",
+    "Winner": "Blue"
+},
+{
+    "ID": 31,
+    "Points_By_Green": 4,
+    "Points_By_Blue": 10,
+    "Hours": "2023-05-21 11:32:36",
+    "Winner": "Blue"
+},
+{
+    "ID": 30,
+    "Points_By_Green": 7,
+    "Points_By_Blue": 8,
+    "Hours": "2023-05-21 11:32:36",
+    "Winner": "Blue"
+},
+{
+    "ID": 29,
+    "Points_By_Green": 1,
+    "Points_By_Blue": 7,
+    "Hours": "2023-05-21 11:32:36",
+    "Winner": "Blue"
+},
+{
+    "ID": 28,
+    "Points_By_Green": 10,
+    "Points_By_Blue": 18,
+    "Hours": "2023-05-21 11:32:36",
+    "Winner": "Blue"
+},
+{
+    "ID": 27,
+    "Points_By_Green": 1,
+    "Points_By_Blue": 12,
+    "Hours": "2023-05-21 11:32:35",
+    "Winner": "Blue"
+},
+{
+    "ID": 26,
+    "Points_By_Green": 14,
+    "Points_By_Blue": 8,
+    "Hours": "2023-05-21 11:32:35",
+    "Winner": "Green"
+},
+{
+    "ID": 25,
+    "Points_By_Green": 10,
+    "Points_By_Blue": 19,
+    "Hours": "2023-05-21 11:32:35",
+    "Winner": "Blue"
+},
+{
+    "ID": 24,
+    "Points_By_Green": 11,
+    "Points_By_Blue": 16,
+    "Hours": "2023-05-21 11:32:35",
+    "Winner": "Blue"
+},
+{
+    "ID": 23,
+    "Points_By_Green": 4,
+    "Points_By_Blue": 9,
+    "Hours": "2023-05-21 11:32:35",
+    "Winner": "Blue"
+},
+{
+    "ID": 22,
+    "Points_By_Green": 14,
+    "Points_By_Blue": 6,
+    "Hours": "2023-05-21 11:32:35",
+    "Winner": "Green"
+},
+{
+    "ID": 21,
+    "Points_By_Green": 8,
+    "Points_By_Blue": 8,
+    "Hours": "2023-05-21 11:32:35",
+    "Winner": "Blue"
+},
+{
+    "ID": 20,
+    "Points_By_Green": 16,
+    "Points_By_Blue": 15,
+    "Hours": "2023-05-21 11:32:35",
+    "Winner": "Green"
+},
+{
+    "ID": 19,
+    "Points_By_Green": 14,
+    "Points_By_Blue": 2,
+    "Hours": "2023-05-21 11:32:35",
+    "Winner": "Green"
+},
+{
+    "ID": 18,
+    "Points_By_Green": 5,
+    "Points_By_Blue": 6,
+    "Hours": "2023-05-21 11:32:35",
+    "Winner": "Blue"
+},
+{
+    "ID": 17,
+    "Points_By_Green": 13,
+    "Points_By_Blue": 12,
+    "Hours": "2023-05-21 11:32:32",
+    "Winner": "Green"
+},
+{
+    "ID": 16,
+    "Points_By_Green": 10,
+    "Points_By_Blue": 8,
+    "Hours": "2023-05-21 11:32:32",
+    "Winner": "Green"
+},
+{
+    "ID": 15,
+    "Points_By_Green": 10,
+    "Points_By_Blue": 8,
+    "Hours": "2023-05-21 11:32:32",
+    "Winner": "Green"
+},
+{
+    "ID": 14,
+    "Points_By_Green": 17,
+    "Points_By_Blue": 16,
+    "Hours": "2023-05-21 11:32:32",
+    "Winner": "Green"
+},
+{
+    "ID": 13,
+    "Points_By_Green": 8,
+    "Points_By_Blue": 14,
+    "Hours": "2023-05-21 11:32:32",
+    "Winner": "Blue"
+},
+{
+    "ID": 12,
+    "Points_By_Green": 14,
+    "Points_By_Blue": 4,
+    "Hours": "2023-05-21 11:32:32",
+    "Winner": "Green"
+},
+{
+    "ID": 11,
+    "Points_By_Green": 12,
+    "Points_By_Blue": 17,
+    "Hours": "2023-05-21 11:32:32",
+    "Winner": "Blue"
+},
+{
+    "ID": 10,
+    "Points_By_Green": 8,
+    "Points_By_Blue": 15,
+    "Hours": "2023-05-21 11:32:32",
+    "Winner": "Blue"
+},
+{
+    "ID": 9,
+    "Points_By_Green": 18,
+    "Points_By_Blue": 9,
+    "Hours": "2023-05-21 11:32:32",
+    "Winner": "Green"
+},
+{
+    "ID": 8,
+    "Points_By_Green": 11,
+    "Points_By_Blue": 3,
+    "Hours": "2023-05-21 11:32:32",
+    "Winner": "Green"
+},
+{
+    "ID": 7,
+    "Points_By_Green": 2,
+    "Points_By_Blue": 4,
+    "Hours": "2023-05-21 11:32:11",
+    "Winner": "Blue"
+},
+{
+    "ID": 6,
+    "Points_By_Green": 11,
+    "Points_By_Blue": 17,
+    "Hours": "2023-05-21 11:32:10",
+    "Winner": "Blue"
+},
+{
+    "ID": 5,
+    "Points_By_Green": 15,
+    "Points_By_Blue": 12,
+    "Hours": "2023-05-21 11:32:10",
+    "Winner": "Green"
+},
+{
+    "ID": 4,
+    "Points_By_Green": 9,
+    "Points_By_Blue": 18,
+    "Hours": "2023-05-21 11:32:09",
+    "Winner": "Blue"
+},
+{
+    "ID": 3,
+    "Points_By_Green": 14,
+    "Points_By_Blue": 5,
+    "Hours": "2023-05-21 11:32:08",
+    "Winner": "Green"
+},
+
+    {
+        "ID":1,
+        "Points_By_Green": 16,
+        "Points_By_Blue": 13,
+        "Hours": "2023-05-19 18:46:48",
+        "Winner": "Green"
+        }
+    ]
+}

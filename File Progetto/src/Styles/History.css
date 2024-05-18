@@ -1,0 +1,39 @@
+.titolo{
+    padding-top: 2rem;
+    margin-top:10rem;
+    font-size: 7rem;
+    display :flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Righteous", cursive;
+    color: #03456e;
+}
+
+.paragrafo{
+    padding: 2rem;
+    font-size: 2rem;
+    font-family: "Righteous", cursive;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+
+
+
+.sottotesto{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
